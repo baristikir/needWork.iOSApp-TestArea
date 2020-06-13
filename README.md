@@ -6,4 +6,4 @@ yarn start
 ```
 
 View:
-![](./assets/video/welcomeScreen.mov)
+![](/assets/video/welcomeScreen.mov)
