@@ -1,9 +1,9 @@
-## Usage
+## Usage 📙
 
 ```shell
 yarn install
 yarn start
 ```
 
-View:
-![](/assets/video/welcomeScreen.mov)
+## How it looks 🚀
+<img src='./assets/video/welcomeScreen.gif'>
